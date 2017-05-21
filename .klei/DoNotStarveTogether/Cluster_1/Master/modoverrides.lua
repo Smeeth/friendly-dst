@@ -7,3 +7,4 @@ return {
 
 --#Health Info
 ["375859599"] = { enabled = true },
+}
