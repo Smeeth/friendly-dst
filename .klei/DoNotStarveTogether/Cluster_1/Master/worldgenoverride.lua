@@ -78,7 +78,7 @@ preset = "SURVIVAL_TOGETHER", --  or "SURVIVAL_TOGETHER" or "SURVIVAL_TOGETHER_C
         tentacles = "default",
         walrus = "default",
         worms = "default",    
-    },    
+    },  
 
     resources = { -- "never", "rare", "default", "often", "always"
         fern = "often",
