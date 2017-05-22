@@ -6,5 +6,5 @@ return {
 ["workshop-347079953"] = { enabled = true },
 
 --#Health Info
-["workshop-375859599"] = { enabled = true },
+["workshop-375859599"] = { enabled = true }
 }
